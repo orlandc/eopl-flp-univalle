@@ -148,7 +148,7 @@ Ejemplo:
 
 | Comandos                                  | Salida                   |
 | :---                                      | :---                     |
-| (path 17 ’(14 (7 () (12 () ()))  (26 (20 (17 () ())  ())  (31 () ()))))          | (right left left)        |
+| (path 17 ’(14 (7 () (12 () ()))<br/>(26 (20 (17 () ())<br/>())<br/>(31 () ()))))          | (right left left)        |
 
 **Nota aclaratoria:** Para el ejercicio número 15, se utiliza la representación de Árbol Binario de Búsqueda con Listas en Racket, y podrı́a representarse con la ayuda de la siguiente gramática BNF:
 
