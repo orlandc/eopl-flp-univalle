@@ -160,7 +160,6 @@ Ejemplo:
 
 ![Cluster character 1](../img/tree.png)
 
-
 Es decir que este Árbol Binario de Búsqueda, representado en Racket con listas y usando la anterior gramática, serı́a:
 
 ’(8 (3 (1 () ()) (6 (4 () ()) (7 () ()))) (10 () (14 (13 () ()) ())))
