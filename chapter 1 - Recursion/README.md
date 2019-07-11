@@ -160,7 +160,7 @@ Ejemplo:
 |                 | := (nodo) número <árbol-binario> <árbol-binario> |
 
 <p align="center">
-![Cluster character 1](../img/tree.png)
+    <img src="img/tree.png">
 </p>
 
 Es decir que este Árbol Binario de Búsqueda, representado en Racket con listas y usando la anterior gramática, serı́a:
