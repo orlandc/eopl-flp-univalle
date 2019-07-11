@@ -155,10 +155,13 @@ Ejemplo:
 
 **Nota aclaratoria:** Para el ejercicio número 15, se utiliza la representación de Árbol Binario de Búsqueda con Listas en Racket, y podrı́a representarse con la ayuda de la siguiente gramática BNF:
 
-<árbol-binario> := (árbol-vacı́o) empty
-                := (nodo) número <árbol-binario> <árbol-binario>
+| <árbol-binario> | := (árbol-vacı́o) empty                           |
+| :---            | :---                                             |
+|                 | := (nodo) número <árbol-binario> <árbol-binario> |
 
+<p align="center">
 ![Cluster character 1](../img/tree.png)
+</p>
 
 Es decir que este Árbol Binario de Búsqueda, representado en Racket con listas y usando la anterior gramática, serı́a:
 
