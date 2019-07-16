@@ -1,5 +1,5 @@
-| Español | [Ingles](https://github.com/orlandc/eopl-flp-univalle/blob/master/chapter%201%20-%20Recursion/LEEME.md) |
-| :---    |                                                                                                  -----: |
+| Español | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Ingles](https://github.com/orlandc/eopl-flp-univalle/blob/master/chapter%201%20-%20Recursion/) |
+| :---    |                                                                                          -----: |
 
 ## Capitulo 1
 
