@@ -1,6 +1,6 @@
 ## Capitulo 2
 
-| Español | [Ingles](https://github.com/orlandc/eopl-flp-univalle/blob/master/chapter%201%20-%20Recursion/) |
+| Español | [Ingles](https://github.com/orlandc/eopl-flp-univalle/tree/master/chapter%202%20-%20Datatypes) |
 | :---    |                                                                                          -----: |
 
 ### Datatypes
