@@ -1,7 +1,7 @@
+## Chapter 1
+
 | English | [Spanish](https://github.com/orlandc/eopl-flp-univalle/blob/master/chapter%201%20-%20Recursion/LEEME.md) |
 | :---    |                                                                                                   -----: |
-
-## Chapter 1
 
 ### Recursion
 
