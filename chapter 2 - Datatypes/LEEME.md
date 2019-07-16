@@ -1,5 +1,7 @@
 ## Capitulo 2
 
+<script src='https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.5/latest.js?config=TeX-MML-AM_CHTML' async></script>
+
 | Español | [Ingles](https://github.com/orlandc/eopl-flp-univalle/tree/master/chapter%202%20-%20Datatypes) |
 | :---    |                                                                                          -----: |
 
